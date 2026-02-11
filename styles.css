@@ -13,9 +13,10 @@ body {
     text-align: center;
     color: blue;
 }
-.project {
-    background : #00b3d1;
+.projects {
+    background: #00b3d1;
 }
+
 .left {
     text-align: left;
 }
